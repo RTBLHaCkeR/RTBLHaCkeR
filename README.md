@@ -1,2 +1,0 @@
-# RTBLHaCkeR
-RTBLHaCkeR
